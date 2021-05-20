@@ -32,7 +32,7 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 ### Links
 
-- Solution URL:(https://github.com/shoebilyas123/FrontendMentor-Challenges/edit/ShoebIlyas-Master/3-column-preview-card-component-main)
+- Solution URL:(https://www.frontendmentor.io/solutions/3-column-card-preview-using-cs-grid-and-flexbox-midKzaz5h)
 - Live Site URL:(https://shoebilyas123-challenge1.netlify.app/)
 
 ## My process
