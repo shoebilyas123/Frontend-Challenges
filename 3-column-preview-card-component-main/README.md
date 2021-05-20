@@ -32,8 +32,8 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 ### Links
 
-- Solution URL:(https://your-solution-url.com)
-- Live Site URL:(https://shoeb-ilyas-123-challenge-1.netlify.app/)
+- Solution URL:(https://github.com/shoebilyas123/FrontendMentor-Challenges/edit/ShoebIlyas-Master/3-column-preview-card-component-main)
+- Live Site URL:(https://shoebilyas123-challenge1.netlify.app/)
 
 ## My process
 
