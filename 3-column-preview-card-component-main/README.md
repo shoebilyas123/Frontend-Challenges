@@ -32,8 +32,8 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://shoeb-ilyas-123-challenge-1.netlify.app/)
+- Solution URL:(https://your-solution-url.com)
+- Live Site URL:(https://shoeb-ilyas-123-challenge-1.netlify.app/)
 
 ## My process
 
