@@ -1,0 +1,121 @@
+/* ====================
+    Gen Setup
+ ====================*/
+:root {
+  --bOrange: hsl(31, 77%, 52%);
+  --dCyan: hsl(184, 100%, 22%);
+  --vDCyan: hsl(179, 100%, 13%);
+  --pTexts: hsla(0, 0%, 100%, 0.75);
+  --vLGray: hsl(0, 0%, 95%);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 15px;
+  color: white;
+  background-color: var(--vLGray);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: "Lexend Deca", sans-serif;
+}
+
+/* ====================
+    Header
+ ====================*/
+header {
+  display: grid;
+  grid-template-columns: 33.33% 33.33% 33.33%;
+  width: 60%;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+/* Cards */
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+  padding: 35px;
+  justify-content: space-between;
+}
+.card__card--upper {
+  height: 65%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.card h1 {
+  font-family: "Big Shoulders Display";
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.card-1 {
+  background-color: var(--bOrange);
+}
+.card-2 {
+  background-color: var(--dCyan);
+}
+.card-3 {
+  background-color: var(--vDCyan);
+}
+/* Paragraphs */
+.card p {
+  color: var(--pTexts);
+}
+/* Button */
+.card__learn--more {
+  background: var(--vLGray);
+  margin: 45px 0 0 0;
+  border-radius: 25px;
+  padding: 10px 15px;
+  border: 2px solid transparent;
+  width: 115px;
+  transition: color 0.2s, border 0.2s;
+}
+.card-1 button {
+  font-family: "Lexend Deca", sans-serif;
+  color: var(--bOrange);
+}
+.card-2 button {
+  font-family: "Lexend Deca", sans-serif;
+  color: var(--dCyan);
+}
+.card-3 button {
+  font-family: "Lexend Deca", sans-serif;
+  color: var(--vDCyan);
+}
+.card-1 button:hover,
+.card-2 button:hover,
+.card-3 button:hover {
+  color: var(--vLGray);
+  border: 2px solid var(--vLGray);
+  background: transparent;
+  cursor: pointer;
+}
+/* Images */
+.card img {
+  width: 25%;
+  height: auto;
+  margin: 5px;
+}
+
+/* ====================
+    Attribution
+ ====================*/
+.attribution {
+  margin-top: 15px;
+  font-size: 11px;
+  text-align: center;
+  color: rgb(22, 22, 22);
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
