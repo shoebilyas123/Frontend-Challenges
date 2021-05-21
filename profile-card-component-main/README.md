@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [GitHub Solution Page](https://github.com/shoebilyas123/FrontendMentor-Challenges/ShoebIlyas-Master/profile-card-component-main)
+- Solution URL: [GitHub Solution Page](https://github.com/shoebilyas123/FrontendMentor-Challenges/tree/ShoebIlyas-Master/profile-card-component-main)
 - Live Site URL: [Netlify Live Site](https://shoebilyas123-ch2.com)
 
 ## My process
