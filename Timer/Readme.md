@@ -1,1 +1,1 @@
-Live Site URL: (https/timify.netlify.app)
+Live Site URL: (https://timify.netlify.app)
